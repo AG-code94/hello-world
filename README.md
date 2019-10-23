@@ -1,2 +1,4 @@
 # hello-world
 This is my repository
+I'm Amy,I live in Leeds and I'm learning how to code!
+
